@@ -1,0 +1,39 @@
+assessment,pi_code,pi_name,n_attributes
+ERA,ERA 1.1.1,Stock status outcome,2
+ERA,ERA 1.2.1,Harvest strategy,1
+ERA,ERA 1.2.3,Information and monitoring,2
+ERA,ERA 1.2.4,Assessment of stock status,1
+ERA,ERA 2.2.1,Other species outcome,1
+ERA,ERA 2.2.3,Other species information,1
+ERA,ERA 2.3.3,ETP species information,1
+ERA,ERA 2.4.1,Habitats outcome,1
+ERA,ERA 2.4.2,Habitats management,1
+ERA,ERA 2.4.3,Habitats information,1
+ERA,ERA 2.5.1,Ecosystem outcome,1
+ERA,ERA 2.5.3,Ecosystem information,1
+ERA,ERA 3.1.1,Legal and/or customary framework,4
+ERA,ERA 3.1.2,"Consultation, roles, and responsibilities",4
+ERA,ERA 3.2.2,Decision-making processes,2
+ERA,ERA 3.2.3,Compliance and enforcement,1
+ERA,ERA 3.2.4,"Monitoring, management, performance evaluation",2
+SRA,SRA 1.1.1,Abuse and harassment,2
+SRA,SRA 1.1.2,"Human trafficking, forced labor and debt bondage",5
+SRA,SRA 1.1.3,Child labor,1
+SRA,SRA 1.1.4,Freedom of association and collective bargaining,3
+SRA,SRA 1.1.5,Earnings and benefits,4
+SRA,SRA 1.1.7,Access to basic services,3
+SRA,SRA 1.1.8,Occupational safety,2
+SRA,SRA 1.2.1,Customary resource use rights,1
+SRA,SRA 1.2.2,Corporate responsibility and transparency,2
+SRA,SRA 2.1.1,Grievance reporting and access to remedy,2
+SRA,SRA 2.1.2,Stakeholder participation and collaborative management,5
+SRA,SRA 2.2.1,Equitable opportunity to benefit,2
+SRA,SRA 2.2.2,Discrimination,2
+SRA,SRA 3.1.1,Food and nutrition security,1
+SRA,SRA 3.1.2,Healthcare,1
+SRA,SRA 3.1.3,Education,3
+SRA,SRA 3.2.1,Benefits to and within community,3
+SRA,SRA 3.2.2,Economic value retention,2
+SRA,SRA 3.2.3,Long-term profitability and future workforce,1
+SRA,SRA 3.2.4,Economic flexibility and autonomy,5
+SRA,SRA 3.2.5,Livelihood security,4

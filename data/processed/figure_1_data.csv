@@ -1,0 +1,1324 @@
+assessment,principle,pi_code,pi_label,highly_relevant,dimension,attribute,score
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Ecological,Age structure,2
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Ecological,Population abundance,3
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Ecological,Habitat diversity,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Ecological,Ecosystem connectivity,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Ecological,Species diversity,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Participatory,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Equitable and inclusive,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Accountable,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Transparent,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Efficient and effective,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Adaptive,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Polycentric,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Responsive,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Cross-scale integration,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Governance,Leadership and initiative,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Agency,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Access to knowledge,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Knowledge diversity,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Access to economic opportunity,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Wealth and reserves,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Social capital,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Economic diversity,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Learning capacity,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Mobility,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Resilience mindset,0
+ERA,ES P1,ERA 1.1.1,Stock status,TRUE,Socio-economic,Technology transfer,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Ecological,Age structure,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Ecological,Population abundance,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Ecological,Habitat diversity,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Ecological,Species diversity,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Participatory,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Accountable,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Transparent,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Efficient and effective,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Adaptive,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Polycentric,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Responsive,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Cross-scale integration,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Governance,Leadership and initiative,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Agency,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Social capital,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Mobility,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P1,ERA 1.1.2,Stock rebuilding,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Ecological,Age structure,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Ecological,Population abundance,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Ecological,Habitat diversity,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Ecological,Species diversity,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Participatory,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Accountable,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Transparent,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Efficient and effective,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Adaptive,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Polycentric,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Responsive,1
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Cross-scale integration,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Governance,Leadership and initiative,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Agency,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Social capital,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Mobility,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P1,ERA 1.2.1,Harvest strategy,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Ecological,Age structure,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Ecological,Population abundance,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Ecological,Habitat diversity,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Ecological,Species diversity,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Participatory,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Accountable,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Transparent,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Efficient and effective,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Adaptive,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Polycentric,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Responsive,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Cross-scale integration,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Governance,Leadership and initiative,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Agency,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Social capital,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Mobility,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P1,ERA 1.2.2,Harvest control,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Ecological,Age structure,1
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Ecological,Population abundance,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Ecological,Habitat diversity,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Ecological,Species diversity,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Participatory,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Accountable,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Transparent,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Efficient and effective,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Adaptive,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Polycentric,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Responsive,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Cross-scale integration,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Governance,Leadership and initiative,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Agency,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Knowledge diversity,1
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Social capital,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Mobility,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P1,ERA 1.2.3,I. and monitoring,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Ecological,Age structure,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Ecological,Population abundance,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Ecological,Habitat diversity,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Ecological,Species diversity,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Participatory,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Accountable,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Transparent,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Efficient and effective,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Adaptive,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Polycentric,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Responsive,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Cross-scale integration,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Governance,Leadership and initiative,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Agency,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Knowledge diversity,1
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Social capital,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Mobility,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P1,ERA 1.2.4,Stock assessment,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Ecological,Species diversity,1
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.2.1,Other species o.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.2.2,Other species m.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Knowledge diversity,1
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.2.3,Other species i.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.3.1,ETP species o.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.3.2,ETP species m.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Knowledge diversity,1
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.3.3,ETP species i.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Ecological,Habitat diversity,1
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.4.1,Habitats o.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Ecological,Habitat diversity,1
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.4.2,Habitats m.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Knowledge diversity,1
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.4.3,Habitats i.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Ecological,Ecosystem connectivity,1
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.5.1,Ecosystem o.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.5.2,Ecosystem m.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Ecological,Age structure,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Ecological,Population abundance,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Ecological,Habitat diversity,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Ecological,Species diversity,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Participatory,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Accountable,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Transparent,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Efficient and effective,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Adaptive,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Polycentric,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Responsive,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Cross-scale integration,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Governance,Leadership and initiative,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Agency,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Knowledge diversity,1
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Social capital,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Mobility,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P2,ERA 2.5.3,Ecosystem i.,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Ecological,Age structure,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Ecological,Population abundance,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Ecological,Habitat diversity,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Ecological,Species diversity,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Participatory,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Equitable and inclusive,1
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Accountable,1
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Transparent,1
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Efficient and effective,2
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Adaptive,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Polycentric,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Responsive,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Cross-scale integration,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Governance,Leadership and initiative,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Agency,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Social capital,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Mobility,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P3,ERA 3.1.1,Legal framework,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Ecological,Age structure,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Ecological,Population abundance,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Ecological,Habitat diversity,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Ecological,Ecosystem connectivity,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Ecological,Species diversity,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Participatory,3
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Equitable and inclusive,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Accountable,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Transparent,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Efficient and effective,1
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Adaptive,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Polycentric,2
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Responsive,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Cross-scale integration,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Governance,Leadership and initiative,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Agency,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Access to knowledge,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Knowledge diversity,2
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Access to economic opportunity,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Wealth and reserves,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Social capital,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Economic diversity,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Learning capacity,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Mobility,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Resilience mindset,0
+ERA,ES P3,ERA 3.1.2,Consultation and roles,TRUE,Socio-economic,Technology transfer,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Ecological,Age structure,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Ecological,Population abundance,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Ecological,Habitat diversity,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Ecological,Species diversity,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Participatory,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Accountable,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Transparent,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Efficient and effective,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Adaptive,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Polycentric,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Responsive,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Cross-scale integration,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Governance,Leadership and initiative,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Agency,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Social capital,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Mobility,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P3,ERA 3.1.3,Long term objectives,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Ecological,Age structure,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Ecological,Population abundance,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Ecological,Habitat diversity,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Ecological,Species diversity,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Participatory,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Accountable,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Transparent,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Efficient and effective,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Adaptive,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Polycentric,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Responsive,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Cross-scale integration,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Governance,Leadership and initiative,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Agency,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Social capital,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Mobility,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P3,ERA 3.2.1,Fishery-specific objectives,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Ecological,Age structure,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Ecological,Population abundance,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Ecological,Habitat diversity,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Ecological,Species diversity,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Participatory,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Accountable,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Transparent,1
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Efficient and effective,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Adaptive,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Polycentric,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Responsive,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Cross-scale integration,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Governance,Leadership and initiative,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Agency,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Access to knowledge,1
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Social capital,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Mobility,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P3,ERA 3.2.2,Decision-making,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Ecological,Age structure,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Ecological,Population abundance,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Ecological,Habitat diversity,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Ecological,Species diversity,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Participatory,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Accountable,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Transparent,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Efficient and effective,1
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Adaptive,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Polycentric,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Responsive,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Cross-scale integration,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Governance,Leadership and initiative,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Agency,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Social capital,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Mobility,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P3,ERA 3.2.3,Compliance & enforcement,FALSE,Socio-economic,Technology transfer,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Ecological,Age structure,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Ecological,Population abundance,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Ecological,Habitat diversity,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Ecological,Ecosystem connectivity,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Ecological,Species diversity,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Participatory,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Equitable and inclusive,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Accountable,1
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Transparent,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Efficient and effective,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Adaptive,1
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Polycentric,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Responsive,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Cross-scale integration,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Governance,Leadership and initiative,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Agency,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Access to knowledge,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Knowledge diversity,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Access to economic opportunity,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Wealth and reserves,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Social capital,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Economic diversity,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Learning capacity,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Mobility,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Flexible and agile infrastructure,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Resilience mindset,0
+ERA,ES P3,ERA 3.2.4,Monitoring & evaluation,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Accountable,2
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Agency,1
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.1,Abuse & harassment*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Accountable,1
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Agency,2
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Access to economic opportunity,1
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Wealth and reserves,1
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Mobility,1
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.2,Human trafficking*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Accountable,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Agency,1
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.3,Child labor*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Accountable,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Agency,2
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Access to knowledge,1
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Social capital,1
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.4,Freedom of association*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Equitable and inclusive,2
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Accountable,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Adaptive,1
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Agency,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Access to economic opportunity,1
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Wealth and reserves,2
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.5,Earnings and benefits*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Accountable,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Agency,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.6,Adequate rest*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Participatory,1
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Accountable,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Agency,1
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Mobility,1
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.7,Access to basic services*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Equitable and inclusive,1
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Accountable,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Agency,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Access to knowledge,1
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.8,Occupational safety*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Participatory,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Accountable,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Transparent,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Responsive,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Agency,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.1.9,Medical response*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Participatory,3
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Accountable,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Transparent,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Responsive,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Agency,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.2.1,Customary resource rights*,TRUE,Socio-economic,Technology transfer,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Ecological,Age structure,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Ecological,Population abundance,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Ecological,Habitat diversity,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Ecological,Ecosystem connectivity,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Ecological,Species diversity,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Participatory,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Equitable and inclusive,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Accountable,1
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Transparent,3
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Efficient and effective,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Adaptive,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Polycentric,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Responsive,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Cross-scale integration,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Governance,Leadership and initiative,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Agency,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Access to knowledge,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Knowledge diversity,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Access to economic opportunity,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Wealth and reserves,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Social capital,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Economic diversity,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Learning capacity,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Mobility,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Resilience mindset,0
+SRA,SR P1,SRA 1.2.2,Corporate responsibility,TRUE,Socio-economic,Technology transfer,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Ecological,Age structure,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Ecological,Population abundance,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Ecological,Habitat diversity,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Ecological,Ecosystem connectivity,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Ecological,Species diversity,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Participatory,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Equitable and inclusive,1
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Accountable,3
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Transparent,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Efficient and effective,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Adaptive,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Polycentric,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Responsive,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Cross-scale integration,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Governance,Leadership and initiative,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Agency,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Access to knowledge,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Knowledge diversity,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Access to economic opportunity,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Wealth and reserves,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Social capital,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Economic diversity,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Learning capacity,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Mobility,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Resilience mindset,0
+SRA,SR P2,SRA 2.1.1,Grievance reporting*,TRUE,Socio-economic,Technology transfer,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Ecological,Age structure,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Ecological,Population abundance,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Ecological,Habitat diversity,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Ecological,Ecosystem connectivity,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Ecological,Species diversity,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Participatory,3
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Equitable and inclusive,1
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Accountable,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Transparent,2
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Efficient and effective,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Adaptive,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Polycentric,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Responsive,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Cross-scale integration,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Governance,Leadership and initiative,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Agency,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Access to knowledge,1
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Knowledge diversity,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Access to economic opportunity,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Wealth and reserves,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Social capital,2
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Economic diversity,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Learning capacity,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Mobility,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Resilience mindset,0
+SRA,SR P2,SRA 2.1.2,Stakeholder participation,TRUE,Socio-economic,Technology transfer,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Ecological,Age structure,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Ecological,Population abundance,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Ecological,Habitat diversity,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Ecological,Species diversity,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Participatory,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Equitable and inclusive,1
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Accountable,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Transparent,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Efficient and effective,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Adaptive,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Polycentric,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Responsive,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Cross-scale integration,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Governance,Leadership and initiative,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Agency,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Access to economic opportunity,1
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Social capital,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Mobility,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P2,SRA 2.2.1,Equitable opportunity,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Ecological,Age structure,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Ecological,Population abundance,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Ecological,Habitat diversity,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Ecological,Species diversity,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Participatory,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Equitable and inclusive,1
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Accountable,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Transparent,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Efficient and effective,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Adaptive,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Polycentric,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Responsive,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Cross-scale integration,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Governance,Leadership and initiative,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Agency,1
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Social capital,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Mobility,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P2,SRA 2.2.2,Discrimination*,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Agency,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Wealth and reserves,1
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.1.1,Food & nutrition security,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Agency,1
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.1.2,Healthcare,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Equitable and inclusive,1
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Agency,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Access to knowledge,2
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Learning capacity,1
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.1.3,Education,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Equitable and inclusive,1
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Agency,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Access to economic opportunity,1
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Wealth and reserves,2
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.2.1,Community benefits,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Equitable and inclusive,1
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Agency,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Access to economic opportunity,1
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.2.2,Economic value retention,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Agency,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Wealth and reserves,1
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.2.3,Long-term profitability,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Equitable and inclusive,1
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Agency,1
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Access to knowledge,1
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Access to economic opportunity,1
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Economic diversity,1
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.2.4,Economic flexibility,FALSE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Participatory,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Equitable and inclusive,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Accountable,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Transparent,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Responsive,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Agency,1
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Access to knowledge,1
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Access to economic opportunity,3
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Wealth and reserves,1
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.2.5,Livelihood security,TRUE,Socio-economic,Technology transfer,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Ecological,Age structure,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Ecological,Population abundance,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Ecological,Habitat diversity,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Ecological,Ecosystem connectivity,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Ecological,Species diversity,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Participatory,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Equitable and inclusive,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Accountable,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Transparent,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Efficient and effective,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Adaptive,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Polycentric,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Responsive,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Cross-scale integration,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Governance,Leadership and initiative,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Agency,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Access to knowledge,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Knowledge diversity,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Access to economic opportunity,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Wealth and reserves,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Social capital,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Economic diversity,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Learning capacity,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Mobility,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Flexible and agile infrastructure,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Resilience mindset,0
+SRA,SR P3,SRA 3.2.6,Fuel efficiency,FALSE,Socio-economic,Technology transfer,0

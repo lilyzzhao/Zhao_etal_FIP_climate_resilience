@@ -1,0 +1,28 @@
+dimension,attribute,era_score,sra_score,coverage_score,coverage_level,instrumental
+Ecological,Age structure,2,0,2,Moderate,ERA
+Ecological,Population abundance,3,0,3,Comprehensive,ERA
+Ecological,Habitat diversity,1,0,1,Minimal,ERA
+Ecological,Ecosystem connectivity,1,0,1,Minimal,ERA
+Ecological,Species diversity,1,0,1,Minimal,ERA
+Governance,Participatory,3,3,3,Comprehensive,ERA and SRA
+Governance,Equitable and inclusive,1,3,3,Comprehensive,SRA
+Governance,Accountable,2,3,3,Comprehensive,SRA
+Governance,Transparent,2,3,3,Comprehensive,SRA
+Governance,Efficient and effective,2,0,2,Moderate,ERA
+Governance,Adaptive,1,1,1,Minimal,ERA and SRA
+Governance,Polycentric,2,0,2,Moderate,ERA
+Governance,Responsive,1,0,1,Minimal,ERA
+Governance,Cross-scale integration,0,0,0,Missing,Neither
+Governance,Leadership and initiative,0,0,0,Missing,Neither
+Socio-economic,Agency,0,3,3,Comprehensive,SRA
+Socio-economic,Access to knowledge,1,2,2,Moderate,SRA
+Socio-economic,Knowledge diversity,2,0,2,Moderate,ERA
+Socio-economic,Access to economic opportunity,0,3,3,Comprehensive,SRA
+Socio-economic,Wealth and reserves,0,3,3,Comprehensive,SRA
+Socio-economic,Social capital,0,2,2,Moderate,SRA
+Socio-economic,Economic diversity,0,1,1,Minimal,SRA
+Socio-economic,Learning capacity,0,1,1,Minimal,SRA
+Socio-economic,Mobility,0,1,1,Minimal,SRA
+Socio-economic,Flexible and agile infrastructure,0,0,0,Missing,Neither
+Socio-economic,Resilience mindset,0,0,0,Missing,Neither
+Socio-economic,Technology transfer,0,0,0,Missing,Neither

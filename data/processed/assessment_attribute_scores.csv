@@ -1,0 +1,28 @@
+dimension,attribute,era_best_pi_score,era_score,sra_best_pi_score,sra_score,era_sra_score
+Ecological,Age structure,2,2,0,0,2
+Ecological,Population abundance,3,3,0,0,3
+Ecological,Habitat diversity,1,1,0,0,1
+Ecological,Ecosystem connectivity,1,1,0,0,1
+Ecological,Species diversity,1,1,0,0,1
+Governance,Participatory,3,3,3,3,3
+Governance,Equitable and inclusive,1,1,2,3,3
+Governance,Accountable,1,2,3,3,3
+Governance,Transparent,1,2,3,3,3
+Governance,Efficient and effective,2,2,0,0,2
+Governance,Adaptive,1,1,1,1,1
+Governance,Polycentric,2,2,0,0,2
+Governance,Responsive,1,1,0,0,1
+Governance,Cross-scale integration,0,0,0,0,0
+Governance,Leadership and initiative,0,0,0,0,0
+Socio-economic,Agency,0,0,2,3,3
+Socio-economic,Access to knowledge,1,1,2,2,2
+Socio-economic,Knowledge diversity,2,2,0,0,2
+Socio-economic,Access to economic opportunity,0,0,3,3,3
+Socio-economic,Wealth and reserves,0,0,2,3,3
+Socio-economic,Social capital,0,0,2,2,2
+Socio-economic,Economic diversity,0,0,1,1,1
+Socio-economic,Learning capacity,0,0,1,1,1
+Socio-economic,Mobility,0,0,1,1,1
+Socio-economic,Flexible and agile infrastructure,0,0,0,0,0
+Socio-economic,Resilience mindset,0,0,0,0,0
+Socio-economic,Technology transfer,0,0,0,0,0

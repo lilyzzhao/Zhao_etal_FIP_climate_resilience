@@ -1,0 +1,50 @@
+assessment,principle,principle_name,pi_code,pi_name,pi_label,sra_core
+ERA,ES P1,Sustainable fish stocks,ERA 1.1.1,Stock status outcome,Stock status,FALSE
+ERA,ES P1,Sustainable fish stocks,ERA 1.1.2,Stock rebuilding outcome,Stock rebuilding,FALSE
+ERA,ES P1,Sustainable fish stocks,ERA 1.2.1,Harvest strategy,Harvest strategy,FALSE
+ERA,ES P1,Sustainable fish stocks,ERA 1.2.2,Harvest control rules,Harvest control,FALSE
+ERA,ES P1,Sustainable fish stocks,ERA 1.2.3,Information and monitoring,I. and monitoring,FALSE
+ERA,ES P1,Sustainable fish stocks,ERA 1.2.4,Assessment of stock status,Stock assessment,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.2.1,Other species outcome,Other species o.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.2.2,Other species management,Other species m.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.2.3,Other species information,Other species i.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.3.1,ETP species outcome,ETP species o.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.3.2,ETP species management,ETP species m.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.3.3,ETP species information,ETP species i.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.4.1,Habitats outcome,Habitats o.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.4.2,Habitats management,Habitats m.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.4.3,Habitats information,Habitats i.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.5.1,Ecosystem outcome,Ecosystem o.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.5.2,Ecosystem management,Ecosystem m.,FALSE
+ERA,ES P2,Minimizing environmental impacts,ERA 2.5.3,Ecosystem information,Ecosystem i.,FALSE
+ERA,ES P3,Effective fisheries management,ERA 3.1.1,Legal and/or customary framework,Legal framework,FALSE
+ERA,ES P3,Effective fisheries management,ERA 3.1.2,"Consultation, roles, and responsibilities",Consultation and roles,FALSE
+ERA,ES P3,Effective fisheries management,ERA 3.1.3,Long term objectives,Long term objectives,FALSE
+ERA,ES P3,Effective fisheries management,ERA 3.2.1,Fishery-specific objectives,Fishery-specific objectives,FALSE
+ERA,ES P3,Effective fisheries management,ERA 3.2.2,Decision-making processes,Decision-making,FALSE
+ERA,ES P3,Effective fisheries management,ERA 3.2.3,Compliance and enforcement,Compliance & enforcement,FALSE
+ERA,ES P3,Effective fisheries management,ERA 3.2.4,"Monitoring, management, performance evaluation",Monitoring & evaluation,FALSE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.1,Abuse and harassment,Abuse & harassment,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.2,"Human trafficking, forced labor and debt bondage",Human trafficking,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.3,Child labor,Child labor,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.4,Freedom of association and collective bargaining,Freedom of association,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.5,Earnings and benefits,Earnings and benefits,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.6,Adequate rest,Adequate rest,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.7,Access to basic services,Access to basic services,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.8,Occupational safety,Occupational safety,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.1.9,Medical response,Medical response,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.2.1,Customary resource use rights,Customary resource rights,TRUE
+SRA,SR P1,"Protect human rights, dignity, and access to resources",SRA 1.2.2,Corporate responsibility and transparency,Corporate responsibility,FALSE
+SRA,SR P2,Ensure equality and equitable opportunity to benefit,SRA 2.1.1,Grievance reporting and access to remedy,Grievance reporting,TRUE
+SRA,SR P2,Ensure equality and equitable opportunity to benefit,SRA 2.1.2,Stakeholder participation and collaborative management,Stakeholder participation,FALSE
+SRA,SR P2,Ensure equality and equitable opportunity to benefit,SRA 2.2.1,Equitable opportunity to benefit,Equitable opportunity,FALSE
+SRA,SR P2,Ensure equality and equitable opportunity to benefit,SRA 2.2.2,Discrimination,Discrimination,TRUE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.1.1,Food and nutrition security,Food & nutrition security,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.1.2,Healthcare,Healthcare,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.1.3,Education,Education,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.2.1,Benefits to and within community,Community benefits,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.2.2,Economic value retention,Economic value retention,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.2.3,Long-term profitability and future workforce,Long-term profitability,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.2.4,Economic flexibility and autonomy,Economic flexibility,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.2.5,Livelihood security,Livelihood security,FALSE
+SRA,SR P3,"Improve food, nutrition, and livelihood security",SRA 3.2.6,Fuel resource efficiency,Fuel efficiency,FALSE

@@ -1,0 +1,41 @@
+dimension,attribute,component,component_definition
+Ecological,Age structure,C1,The extent to which the age distribution of individuals within the fished population is intact and well-distributed.
+Ecological,Ecosystem connectivity,C1,"The degree to which an ecosystem facilitates the structural and physical connection among suitable, adjacent, and/or available ecosystem functions and components."
+Ecological,Habitat diversity,C1,"The range of suitable, adjacent, and available habitats that a target fish population can exploit"
+Ecological,Population abundance,C1,The abundance or biomass of a species present in a defined geographic range is high
+Ecological,Species diversity,C1,The level of diversity of species within the broader ecosystem
+Governance,Accountable,C1,The degree to which decisions and decision makers can be held culpable to both the individuals and communities that they govern
+Governance,Accountable,C2,"The degree to which decisions and decision makers are held culpable to higher-level mandates, commitments, goals, and objectives they serve"
+Governance,Adaptive,C1,"The capacity to implement a structured, iterative process of continual innovation, testing, learning, and adjustment that facilitates robust, flexible decision-making and action in the face of uncertainty and complexity."
+Governance,Cross-scale integration,C1,"The degree to which actors and/or organizations acknowledge, work with, and attempt to understand the relevance and transition of scale and the interlinkages between various other organizations, institutions, and management structures."
+Governance,Efficient and effective,C1,The ability of governance to produce outcomes that achieve societal and/or fishery objectives
+Governance,Efficient and effective,C2,The ability of governance to use resources efficiently
+Governance,Equitable and inclusive,C1,The extent to which governance is fair in the distribution of burdens and benefits
+Governance,Equitable and inclusive,C2,The management system is procedurally equitable and engaged and inclusive of marginalized and disadvantaged groups
+Governance,Leadership and initiative,C1,"The degree to which leaders are guided by collective interests, who mobilize and direct responses to disruptions and who take responsibility and act when necessary"
+Governance,Leadership and initiative,C2,The degree to which the governance system legitimizes and supports the development of such leaders
+Governance,Participatory,C1,"The degree to which an institution empowers participants to influence and share control in processes of public decision-making, ranging from intermittent consultation opportunities to ongoing self-mobilization."
+Governance,Polycentric,C1,The degree to which multiple bodies at different levels of the governance system overlap and interact to make and enforce rules within a specific policy arena or location.
+Governance,Responsive,C1,"The sensitivity, readiness, speed, and accuracy with which a governance system handles, resolves, and follows up on a management-relevant change to meet stakeholders‚Äô needs."
+Governance,Transparent,C1,The degree to which information regarding decision-making is available to the public or affected stakeholders in a timely manner
+Governance,Transparent,C2,The degree to which information regarding decision-making that is available is in a form accessible to the public or affected stakeholders
+Socio-economic,Access to economic opportunity,C1,The degree to which physical means and processes (e.g. transportation networks) enable individuals and communities to benefit from new or alternative income-earning or subsistence activities
+Socio-economic,Access to economic opportunity,C2,The degree to which non-physical means and processes (i.e. collectives) enable individuals and communities to benefit from new or alternative income-earning or subsistence activities exist.
+Socio-economic,Access to knowledge,C1,The extent to which individuals and communities have equitable access to the variety of existing available information within the system
+Socio-economic,Access to knowledge,C2,The ability of individuals and communities to derive benefit from the variety of existing knowledge about the system
+Socio-economic,Agency,C1,"The capacity of individuals and communities to negotiate, make decisions, and act on their own free will."
+Socio-economic,Economic diversity,C1,"The variety of income earning activities that an individual, household, or community can partake in within the fishery"
+Socio-economic,Economic diversity,C2,"The variety of income earning activities that an individual, household, or community can partake in outside the fishery"
+Socio-economic,Flexible and agile infrastructure,C1,The ability of built structure and facilities to provide needed services under a wide range of conditions
+Socio-economic,Flexible and agile infrastructure,C2,The ability of built structure and facilities quickly respond to predictable and unpredictable changes.
+Socio-economic,Knowledge diversity,C1,The degree of variety in the origins of knowledge sources available to individuals and members of the community [and used in decision-making].
+Socio-economic,Learning capacity,C1,The extent to which individuals and communities are able to recognize change and potential risk
+Socio-economic,Learning capacity,C2,The extent to which individuals and communities have the knowledge to pose solutions to risks
+Socio-economic,Mobility,C1,"The extent to which individual fishers, fishworkers can move freely"
+Socio-economic,Mobility,C2,The extent to which communities and fishing operations can move freely
+Socio-economic,Resilience mindset,C1,The ability of individuals demonstrate resilience thinking
+Socio-economic,Social capital,C1,The level and strength of social networks between individuals
+Socio-economic,Social capital,C2,The level and strength of existing networks between organizations in the system
+Socio-economic,Technology transfer,C1,The capacity of individuals and communities to develop and acquire new technologies
+Socio-economic,Technology transfer,C2,The extent to which new technologies and methods are transferred between and among actors in the system
+Socio-economic,Wealth and reserves,C1,"The aggregate value of assets available to individuals, organizations and communities that contribute to human well-being."
