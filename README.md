@@ -2,7 +2,7 @@
 
 Data and code for:
 
-> Zhao, L. Z., Eurich, J. G., Wapman, E. & Finkbeiner, E. The instrumental value of social responsibility for a climate-resilient seafood sector. *Marine Policy* (in review).
+> Zhao, L. Z., Eurich, J. G., Wapman, E. & Finkbeiner, E. The instrumental value of social responsibility for a climate-resilient seafood sector (to be submitted to *Marine Policy*).
 
 We scored the 49 performance indicators (PIs) in two FIP assessments, the Environmental Rapid Assessment (ERA, version 2.1, 25 PIs) and the Social Responsibility Assessment (SRA, 2021 version, 24 PIs), against 27 attributes of climate-resilient fishery systems (Mason et al., 2022). Scores are 0 (missing), 1 (minimal), 2 (moderate) or 3 (comprehensive).
 
