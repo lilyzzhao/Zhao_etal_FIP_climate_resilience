@@ -13,8 +13,13 @@
 #   1. Each PI was scored 0-3 against each attribute component. Pairs with no
 #      recorded score are 0 (no conceptual overlap).
 #   2. An attribute with one component takes that component's score. An attribute
-#      with two components takes the mean of the two, rounded half up
-#      (0.5 -> 1, 1.5 -> 2, 2.5 -> 3).
+#      with two components is scored on how much of the whole attribute the PI
+#      covers, where hi and lo are the higher and lower component scores:
+#        comprehensive (3): hi = 3 and lo >= 2
+#        moderate (2):      hi = 3 and lo <= 1, or hi = 2 and lo >= 1
+#        minimal (1):       hi = 2 and lo = 0, or hi = 1
+#        missing (0):       both components 0
+#      This is equivalent to the mean of the two component scores rounded half up.
 #   3. An assessment's score for an attribute starts as the best score of any of
 #      its PIs. The collective review raised five of these scores
 #      (data/raw/collective_coverage_adjustments.csv).
@@ -40,12 +45,34 @@ all_component_scores <- expand_grid(
             by = c("pi_code", "attribute", "component")) %>%
   mutate(score = replace_na(score, 0))
 
-# Step 2. Combine components into one score per PI and attribute (rule 2) -----
+# Step 2. Combine components into one attribute-level category per PI (rule 2) -
+# An attribute is categorised by how much of the whole attribute the PI covers:
+# missing (0), minimal (1), moderate (2) or comprehensive (3). A score of 0 means
+# the component is absent from the PI's coverage, not a missing value.
 
-round_half_up <- function(x) floor(x + 0.5)  # base round() sends 0.5 and 2.5 to the even number
+combine_components <- function(scores) {
+  if (!all(scores %in% 0:3)) {
+    stop("component scores must be 0, 1, 2 or 3; got: ",
+         str_c(scores, collapse = ", "))
+  }
+  if (length(scores) == 1) return(scores[1])
+  if (length(scores) != 2) {
+    stop("expected 1 or 2 components per attribute; got ", length(scores))
+  }
+  hi <- max(scores)
+  lo <- min(scores)
+  case_when(
+    hi == 3 & lo >= 2 ~ 3,  # comprehensive
+    hi == 3 & lo <= 1 ~ 2,  # moderate
+    hi == 2 & lo >= 1 ~ 2,  # moderate
+    hi == 2 & lo == 0 ~ 1,  # minimal
+    hi == 1           ~ 1,  # minimal
+    hi == 0           ~ 0   # missing (both components 0)
+  )
+}
 
 pi_attribute_scores <- all_component_scores %>%
-  summarise(score = round_half_up(mean(score)), .by = c(pi_code, attribute)) %>%
+  summarise(score = combine_components(score), .by = c(pi_code, attribute)) %>%
   left_join(performance_indicators, by = "pi_code") %>%
   left_join(select(resilience_attributes, attribute, dimension), by = "attribute") %>%
   select(assessment, principle, pi_code, pi_name, pi_label, sra_core,

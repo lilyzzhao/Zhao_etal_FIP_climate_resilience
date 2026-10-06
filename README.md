@@ -44,7 +44,7 @@ Open `Zhao_etal_FIP_climate_resilience.Rproj` in RStudio and run `source("R/run_
 
 ## How scores are combined
 
-- Attributes with two components take the mean of the two component scores, rounded half up.
+- Attributes with two components are scored on how much of the whole attribute a PI covers. Comprehensive (3): one component comprehensive and the other at least moderate. Moderate (2): one component comprehensive and the other minimal or missing, or one moderate and the other moderate or minimal. Minimal (1): one component covered moderately or minimally with the other missing, or both minimal. Missing (0): both components missing. This is equivalent to the mean of the two component scores rounded half up.
 - An assessment's score for an attribute is the best score of its PIs, raised in the five cases where its PIs together covered more (`collective_coverage_adjustments.csv`).
 - The ERA+SRA score is the higher of the ERA and SRA scores. Percent coverage is the sum of scores divided by 3 times the number of attributes.
 
