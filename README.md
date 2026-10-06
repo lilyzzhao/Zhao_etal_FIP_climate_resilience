@@ -52,7 +52,7 @@ Open `Zhao_etal_FIP_climate_resilience.Rproj` in RStudio and run `source("R/run_
 
 Mason, J. G. et al. Attributes of climate resilience in fisheries: from theory to practice. *Fish and Fisheries* **23**, 522–544 (2022). https://doi.org/10.1111/faf.12630
 
-Claude Opus 5.5 (Anthropic) was used to help clean up and annotate the code and to improve the design of the original figures. All code changes were reviewed by LZZ.
+Claude Opus 5.5 (Anthropic) was used to support the organization of the repository and README file and to annotate and clean up scripts, including the code used to generate the figures. All code changes were reviewed by LZZ.
 
 ## Contact
 
